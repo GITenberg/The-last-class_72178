@@ -8,12 +8,17 @@ contributor:
     deathdate: 2013
     gutenberg_agent_id: '31852'
     url: http://www.gutenberg.org/2009/agents/31852
+covers:
+- cover_type: archival
+  image_path: 72178-h/images/cover.jpg
 creator:
   author:
     agent_name: Banks, Richard
     gutenberg_agent_id: '56579'
     url: http://www.gutenberg.org/2009/agents/56579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72178#The-last-class
 gutenberg_issued: '2023-11-20'
 identifiers:
   gutenberg: '72178'
